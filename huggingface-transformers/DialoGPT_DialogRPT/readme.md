@@ -8,4 +8,4 @@
 - I am using DialoGPT model to retrieve possible candidates based on user input
 - Once the candidate are retrived I score them using DialogRPT model.
 - The one with the best score is choosen by the bot to reply with
-- I have broken down the candidate generation and scoring into 
+- I have broken down the candidate generation and scoring into separate notebooks ![here](https://github.com/EsratMaria/All-about-Natural-Language-and-Speech-Processing/blob/master/huggingface-transformers/DialoGPT_DialogRPT/QueryCandidate_Retrieval_DialoGPT.ipynb) and ![here](https://github.com/EsratMaria/All-about-Natural-Language-and-Speech-Processing/blob/master/huggingface-transformers/DialoGPT_DialogRPT/Candidate_Scoring_DialogRPT.ipynb)
