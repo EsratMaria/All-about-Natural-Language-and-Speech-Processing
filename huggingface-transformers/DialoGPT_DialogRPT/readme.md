@@ -5,3 +5,5 @@
 
 ## How it works
 - I am using Hugging face transformer models to make interractive chat experience. More about huggingface 🤗 can be found ![here](https://github.com/huggingface/transformers)
+- I am using DialoGPT model to retrieve possible candidates based on user input
+- Once the can
