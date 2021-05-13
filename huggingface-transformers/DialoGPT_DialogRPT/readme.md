@@ -7,4 +7,5 @@
 - I am using Hugging face transformer models to make interractive chat experience. More about huggingface 🤗 can be found ![here](https://github.com/huggingface/transformers)
 - I am using DialoGPT model to retrieve possible candidates based on user input
 - Once the candidate are retrived I score them using DialogRPT model.
-- 
+- The one with the best score is choosen by the bot to reply with
+- I have broken down the candidate generation and scoring into 
