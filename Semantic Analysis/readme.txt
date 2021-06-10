@@ -1,3 +1,5 @@
+Deep learning pipeline with NLP
+
 Semantic Analysis on the Fake/Real News Dataset
 
 Played around with the Fake News dataset to learn some nlp basics and eventually tested the performance of the model by evaluation using ML.
@@ -24,4 +26,5 @@ NLP
 ML
 1. Embedding
 2. GlobalAveragePooling1D
+
 
