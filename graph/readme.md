@@ -6,3 +6,6 @@ In this folder, I have tried to work with graphs. I converted sentences to graph
 #### Tree to Graph
 
 #### Faiss Search on Embedded Graoh Data
+
+
+(DETAILS TO BE ADDED SOON)
