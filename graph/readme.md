@@ -1,17 +1,17 @@
 # Working with Graph Data 🌧️
 In this folder, I have tried to work with graphs. I converted sentences to graphs and also used some parsing techniques. Additionally, worked with embedded data to perform a very efficient `Faiss` search.
 
-### Sentence to Parsed Tree
+## Sentence to Parsed Tree
 
 Creating a Parsed tree of a sentence using **`stanford parser`**.
 
   `parse_tree.draw()
   `
-### Tree to Graph
+## Tree to Graph
 
 By performing a breadth first search within a tree, converting the tree to a graph. **`Networkx`** library has been used for the graph visualization.
 
-### Faiss Search on Embedded Graph Data
+## Faiss Search on Embedded Graph Data
 
 Faiss is developed by **Facebook AI Research**. It is basically used for similarity search and clustering of dense vectors. More on **Faiss** can be found [here](https://github.com/facebookresearch/faiss).
 
