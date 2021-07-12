@@ -9,7 +9,7 @@ Creating a Parsed tree of a sentence using **`stanford parser`**.
   `
 #### Tree to Graph
 
-
+By performing a breadth first search within a tree
 #### Faiss Search on Embedded Graoh Data
 
 .
