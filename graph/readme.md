@@ -3,9 +3,13 @@ In this folder, I have tried to work with graphs. I converted sentences to graph
 
 #### Sentence to Parsed Tree
 
+Creating a Parsed tree of a sentence using **`stanford parser`**.
+
+  `parse_tree.draw()
+  `
 #### Tree to Graph
+
 
 #### Faiss Search on Embedded Graoh Data
 
-
-(DETAILS TO BE ADDED SOON)
+.
