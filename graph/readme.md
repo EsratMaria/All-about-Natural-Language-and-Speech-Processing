@@ -10,6 +10,6 @@ Creating a Parsed tree of a sentence using **`stanford parser`**.
 #### Tree to Graph
 
 By performing a breadth first search within a tree, converting the tree to a graph. **`Networkx`** library has been used for the graph visualization.
-#### Faiss Search on Embedded Graoh Data
+#### Faiss Search on Embedded Graph Data
 
-jd
+Searching similar sentences from graph embedded data using **`Faiss`**. The dimension has been set to 300.
