@@ -13,3 +13,4 @@ By performing a breadth first search within a tree, converting the tree to a gra
 #### Faiss Search on Embedded Graph Data
 
 Searching similar sentences from graph embedded data using **`Faiss`**. The dimension has been set to 300.
+Converting a graph to 
