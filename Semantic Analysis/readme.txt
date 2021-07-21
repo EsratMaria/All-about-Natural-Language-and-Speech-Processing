@@ -1,6 +1,6 @@
 Deep learning pipeline with NLP
 
-Semantic Analysis on the Fake/Real News Dataset  
+Semantic Analysis on the Fake/Real News Dataset
 
 Played around with the Fake News dataset to learn some nlp basics and eventually tested the performance of the model by evaluation using ML.
 Prediction was made on the testing set and later evaluated.
