@@ -13,7 +13,7 @@ Tried few:
 * Dataframe concatenation
 
 
->> The dataset is available on Kaggle (https://www.kaggle.com/c/fake-news/data)
+> The dataset is available on Kaggle (https://www.kaggle.com/c/fake-news/data)
 
 Both NLP and ML analysis has been done on this dataset. 
 
