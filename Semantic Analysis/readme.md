@@ -1,4 +1,4 @@
-Deep learning pipeline with NLP
+# Deep learning pipeline with NLP
 
 Semantic Analysis on the Fake/Real News Dataset
 
@@ -17,13 +17,13 @@ Tried few:
 
 Both NLP and ML analysis has been done on this dataset. 
 
-NLP
+### NLP
 1. Stop words
 2. Lemmatization
 3. Tokenization
 4. Padding
 
-ML
+### ML
 1. Embedding
 2. GlobalAveragePooling1D
 
