@@ -7,7 +7,7 @@ Prediction was made on the testing set and later evaluated.
 
 The prediction accuracy : 0.99 (almost)
 
-Tried few: 
+Tried few:
 * Data cleaning approaches
 * Data visualization
 * Dataframe concatenation
