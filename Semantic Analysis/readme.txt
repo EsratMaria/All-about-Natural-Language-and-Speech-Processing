@@ -9,8 +9,8 @@ The prediction accuracy : 0.99 (almost)
 
 Tried few:
 * Data cleaning approaches
-* Data visualization 
-* Dataframe concatenation 
+* Data visualization
+* Dataframe concatenation
 
 
 >> The dataset is available on Kaggle (https://www.kaggle.com/c/fake-news/data)
