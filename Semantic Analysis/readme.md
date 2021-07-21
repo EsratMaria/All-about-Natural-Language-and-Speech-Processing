@@ -5,7 +5,7 @@ Semantic Analysis on the Fake/Real News Dataset
 Played around with the Fake News dataset to learn some nlp basics and eventually tested the performance of the model by evaluation using ML.
 Prediction was made on the testing set and later evaluated.
 
-The prediction accuracy : 0.99 (almost)
+The prediction accuracy : **0.99** (almost)
 
 Tried few:
 * Data cleaning approaches
