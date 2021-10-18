@@ -23,7 +23,7 @@ Both NLP and ML analysis has been done on this dataset.
 3. Tokenization
 4. Padding
 
-### ML  
+### ML 
 1. Embedding
 2. GlobalAveragePooling1D
 
