@@ -5,7 +5,7 @@ In this folder, I have tried to work with graphs. I converted sentences to graph
 
 Creating a Parsed tree of a sentence using **`stanford parser`**.
 
-  `parse_tree.draw()
+  `parse_tree.draw() 
   `
 ## Tree to Graph
 
